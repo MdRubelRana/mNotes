@@ -18,7 +18,7 @@ body, p {
 
 h1 {
 	color: #f1f1f8;
-	font: 700 2.75rem/3.5rem "Montserrat", sans-serif;
+	font: 700 2.5rem/3rem "Montserrat", sans-serif !important;
 }
 
 h2 {
@@ -47,7 +47,7 @@ h6 {
 }
 
 .p-large {
-	font: 400 1.125rem/1.875rem "Open Sans", sans-serif;
+	font: 400 1rem/1.875rem "Open Sans", sans-serif;
 }
 
 .p-small {
